@@ -1,4 +1,4 @@
-# Calculadora Tkinter com Histórico
+# Calculadora
 
 Este é um projeto de calculadora desenvolvido em Python utilizando a biblioteca Tkinter para criação da interface gráfica. O programa permite realizar operações matemáticas básicas e exibe um histórico dos últimos cinco cálculos realizados.
 
